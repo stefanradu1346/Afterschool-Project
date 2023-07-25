@@ -1,0 +1,17 @@
+
+Nume: Stefan46
+Email: stefan_radu1346@yahoo.com
+Tel: 0770755845
+Mesaj: Acesta este un test
+
+
+Nume: Stefan46
+Email: stefan_radu1346@yahoo.com
+Tel: 0744333163
+Mesaj: Mesaj
+
+Nume: Test
+Email: stefan_radu1346@yahoo.com
+Tel: 0744333163
+Mesaj: Test
+
